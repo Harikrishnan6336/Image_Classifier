@@ -4,8 +4,6 @@ A template for any image classification problem with [Teachable Machine](https:/
 
 Start an image project in Teachable machine and export the Tensorflow model and then extract the downloaded folder and place the "keras_model.h5" and "labels.txt" in the working directory.
 
-Make changes in the code accordingly.Replace the `"Label : " + labels[str(result)]` with the label name.
-
 For more awesome Teachable Machine resources visit [The Awesome Teachable Machine List](https://github.com/SashiDo/awesome-teachable-machine)
 
 ### 👨🏻‍🏫  Prerequisites
