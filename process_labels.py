@@ -1,5 +1,4 @@
-# A dict to store the labels(keys) and its names(values)
-
+# Generates a dict to store the labels(keys) and its names(values)
 
 def gen_labels():
     labels = {}
