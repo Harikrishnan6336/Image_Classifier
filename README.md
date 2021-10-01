@@ -6,6 +6,8 @@ Start an image project in Teachable machine and export the Tensorflow model and 
 
 For more awesome Teachable Machine resources visit [The Awesome Teachable Machine List](https://github.com/SashiDo/awesome-teachable-machine)
 
+If you love this repo, consider giving it a star🌟.
+
 ### 👨🏻‍🏫  Prerequisites
 
 To install all the dependencies, run:
