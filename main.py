@@ -7,7 +7,7 @@ from process_labels import gen_labels
 np.set_printoptions(suppress=True)
 image = cv2.VideoCapture(0)
 # Load the model
-model = tensorflow.keras.models.load_model('keras_model.h5')
+model = tensorflow.keras.models.load_model('PlantDNet.h5')
 
 """
 Create the array of the right shape to feed into the keras model
